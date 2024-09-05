@@ -1,6 +1,6 @@
 # Iterm2
 
-Certainly! Here is a detailed list of `iTerm2` commands and configurations. iTerm2 is a popular terminal emulator for macOS, offering advanced features for terminal management.
+Here is a detailed list of `iTerm2` commands and configurations. iTerm2 is a popular terminal emulator for macOS, offering advanced features for terminal management.
 
 ### **iTerm2 Commands and Configurations**
 
